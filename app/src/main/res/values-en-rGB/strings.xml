@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="imc_7">Very severly obese</string>
+    <string name="imc_6">severly obese</string>
+    <string name="imc_5">moderatly obese</string>
+    <string name="imc_4">overweight</string>
+    <string name="imc_3">healthy weight</string>
+    <string name="imc_2">underweight</string>
+    <string name="imc_1">serverly underweight</string>
+    <string name="size_lbl_top">Enter your size:</string>
+    <string name="size_lbl">Size:</string>
+    <string name="unit_meter">Meter</string>
+    <string name="unit_centimeter">Centimeter</string>
+    <string name="desc">Apreciation</string>
+    <string name="imc_get">Calculate BMI</string>
+    <string name="reset">Reset</string>
+    <string name="result">Result:</string>
+    <string name="result_desc">You must click on the \"Calculate BMI\" button to get result.</string>
+    <string name="weight_lbl">Weight:</string>
+    <string name="weight_lbl_top">Enter your weight:</string>
+    <string name="imc_is">\"Your BMI is\"</string>
+    <string name="err_neg_weight">Weight must be above 0</string>
+    <string name="err_neg_size">Size must be above 0</string>
+    <string name="txt_init">Click on the \"Calculate BMI\" button to get result.</string>
+</resources>
